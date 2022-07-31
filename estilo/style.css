@@ -46,7 +46,7 @@ header p{
     font-family: var(--font-padrao);
     font-size: 1.2em;
     color: white;
-    width: 500px;
+    width:320px;
     margin: auto;
     padding-bottom: 20px;
     padding-right: 10px;
@@ -74,7 +74,7 @@ nav > a:hover{
 }
 main{
     background-color: white;
-    min-width: 250px;
+    min-width: 300px;
     max-width: 1000px;
     margin: auto;
     padding: 15px 20px 15px 15px;
