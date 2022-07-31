@@ -46,7 +46,7 @@ header p{
     font-family: var(--font-padrao);
     font-size: 1.2em;
     color: white;
-    width:320px;
+    width:350px;
     margin: auto;
     padding-bottom: 20px;
     padding-right: 10px;
@@ -145,8 +145,8 @@ main a:hover{
 
 }
 main img{
-    max-width: 620px;
-    min-width: 200px;
+    max-width: 600px;
+    min-width: 300px;
     display: block;
     margin: auto;
 }
