@@ -144,9 +144,9 @@ main a:hover{
     transition: 0.2s;
 
 }
-main img{
+picture > img{
     max-width: 600px;
-    min-width: 300px;
+    min-width: 280px;
     display: block;
     margin: auto;
 }
